@@ -1,0 +1,17 @@
+{
+  "name": "@ayush3513/med-common",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {},
+  "types": "./dist/index.d.ts",
+  "description": "new"
+}
